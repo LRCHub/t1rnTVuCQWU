@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ギャ・ギャ・ギャ・ギャラクシー！",
+  "base_artist": "つきみぐー、",
+  "createdAt": "2026-02-23T03:00:41.657054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギャ・ギャ・ギャ・ギャラクシー!",
+      "artist": "つきみぐー、feat. 重音テト",
+      "has_synced": false,
+      "path": "select/pl_01_ギャ・ギャ・ギャ・ギャラクシー!_つきみぐー、feat._重音テト.txt"
+    }
+  ]
+}
